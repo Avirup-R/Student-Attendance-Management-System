@@ -1,13 +1,13 @@
 # Student-Attendance-Management-System
-##A flask based API that updates the Attendance of the Student.
-###It has student and teacher as it's user classes. 
-###Perfect for storing attendence of students in college of various departments and across various semester.
+## A flask based API that updates the Attendance of the Student.
+### It has student and teacher as it's user classes. 
+### Perfect for storing attendence of students in college of various departments and across various semester.
 
-##For Demo go to  
+## For Demo go to  
 
-##It uses cloud firebase as its database.
+## It uses cloud firebase as its database.
 
-###To use this project follow the following steps:
+### To use this project follow the following steps:
 1. Create a project in firebase and then create an app.
 2. Enable "Realtime Database", "Cloud Firestore", "Authentication SDK".
 3. Register the web app in the Firebase console project to get the `Firebase config` snippet. Add this snippet to `./app.py` and `./static/js/firebaseConfig.js`
