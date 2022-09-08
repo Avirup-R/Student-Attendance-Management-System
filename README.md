@@ -3,7 +3,7 @@
 ### It has student and teacher as it's user classes. 
 ### Perfect for storing attendence of students in college of various departments and across various semester.
 
-## For Demo go to  
+
 
 ## It uses cloud firebase as its database.
 
