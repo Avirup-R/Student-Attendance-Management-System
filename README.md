@@ -25,11 +25,11 @@
 live website:- https://student-attendance-management-system.onrender.com/
 
 #### STUDENT ID
-Department:- AIML
-Semester:- IV(A)
-email:- new@gmail.com
-password:- abcd@1234
+Department:- AIML<br/>
+Semester:- IV(A)<br/>
+email:- new@gmail.com<br/>
+password:- abcd@1234<br/>
 
 #### TEACHER ID
-email:- teacher@gmail.com
-password:- abcd@1234
+email:- teacher@gmail.com<br/>
+password:- abcd@1234<br/>
