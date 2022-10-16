@@ -20,3 +20,16 @@
 
 **NOTE** 
       - Please do not commit and upload (push) `key.json`, `firebaseConfig.json` without erasing your personal data from them and please leave the `app.secret_key` blank before committing and pushing.
+
+## FOR DEMO
+live website:- https://student-attendance-management-system.onrender.com/
+
+#### STUDENT ID
+Department:- AIML
+Semester:- IV(A)
+email:- new@gmail.com
+password:- abcd@1234
+
+#### TEACHER ID
+email:- teacher@gmail.com
+password:- abcd@1234
